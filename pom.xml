@@ -9,11 +9,8 @@
 
   <name>pruebasSparkJava</name>
   <url>http://maven.apache.org</url>
-...
   <build>
-   <plugins>
-...
-    
+   <plugins>   
     <plugin>
       <artifactId>maven-assembly-plugin</artifactId>
       <executions>
